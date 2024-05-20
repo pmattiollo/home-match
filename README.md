@@ -28,15 +28,15 @@ Home Match is a Python-based application that helps users find rental properties
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-4. Install the required dependencies:
+3. Install the required dependencies:
 
 ## Usage
 
-1.	Start Jupyter Notebook:
+1. Start Jupyter Notebook:
    ```sh
    jupyter notebook
-   
-2.	Open the HomeMatch.ipynb notebook and follow the instructions to run the application.
+
+2. Open the HomeMatch.ipynb notebook and follow the instructions to run the application.
 
 ## License
 
