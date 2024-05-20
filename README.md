@@ -35,8 +35,8 @@ Home Match is a Python-based application that helps users find rental properties
    ```sh
    jupyter notebook
    ```
-
-3.	Open the HomeMatch.ipynb notebook and follow the instructions to run the application.
+   
+2.	Open the HomeMatch.ipynb notebook and follow the instructions to run the application.
 
 ## License
 
