@@ -31,10 +31,10 @@ Home Match is a Python-based application that helps users find rental properties
 4. Install the required dependencies:
 
 ## Usage
+
 1.	Start Jupyter Notebook:
    ```sh
    jupyter notebook
-   ```
    
 2.	Open the HomeMatch.ipynb notebook and follow the instructions to run the application.
 
